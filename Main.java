@@ -5,4 +5,8 @@ public class Main {
         System.out.println("Hello World from main");
     }
 
+    private void cherryPickExample(){
+        System.out.println("Hello World from cherry pick");
+    }
+
 }
